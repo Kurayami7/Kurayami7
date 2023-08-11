@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A driven full-stack developer based in Toronto, Canada. I happen to enjoy solving problems I have never seen or heard of before.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
