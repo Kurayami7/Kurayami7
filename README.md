@@ -1,9 +1,8 @@
 <h3 align="center">A driven full-stack developer based in Toronto, Canada. I happen to enjoy solving programming problems I have never seen or heard of before.</h3>
 
-<h3 align="left">Connect with me 🤝 :</h3>
+<h3 align="left">Connect with me 🤝:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/areaf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/areaf/" height="30" width="40" /></a>
-<p align="left">
 <a href="mailto:a.legend7@outlook.com" target="blank"><img align="center" src="mail.gif" height="30" width="40" /></a>
 </p>
 </p>
