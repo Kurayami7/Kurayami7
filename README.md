@@ -1,3 +1,5 @@
+<img align="center" src="banner.png"/></a>
+
 <h3 align="center">A driven full-stack developer based in Toronto, Canada. I happen to enjoy solving programming problems I have never seen or heard of before.</h3>
 
 <h3 align="left">Connect with me 🤝:</h3>
