@@ -8,6 +8,7 @@
 <a href="mailto:a.legend7@outlook.com" target="blank"><img align="center" src="mail.gif" height="30" width="40" /></a>
 </p>
 </p>
+<br/>
 
 ![](https://komarev.com/ghpvc/?username=kurayami7)
 
