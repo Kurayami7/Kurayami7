@@ -10,7 +10,7 @@
 </p>
 <br/>
 
-![](https://komarev.com/ghpvc/?username=kurayami7)
+![](https://komarev.com/ghpvc/?username=Kurayami7)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
