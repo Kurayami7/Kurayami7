@@ -10,7 +10,6 @@
 </p>
 <br/>
 
-![snake gif](https://github.com/Kurayami7/Kurayami7/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
