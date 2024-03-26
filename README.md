@@ -1,6 +1,6 @@
 <img align="center" src="banner.png"/></a>
 
-<h3 align="center">A driven full-stack developer based in Toronto, Canada. I happen to enjoy solving programming problems I have never seen or heard of before. <br><br>Note: I have switched over to Azure DevOps for Projects</h3>
+<h3 align="center">A driven full-stack developer based in Toronto, Canada. I happen to enjoy solving programming problems I have never seen or heard of before. <br><br><span style="color: red;">Note: I have switched over to Azure DevOps for Projects</span></h3>
 
 <h3 align="left">Connect with me 🤝:</h3>
 <p align="left">
@@ -24,6 +24,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kurayami7&" alt="kurayami7" /></p>
 
-<style>h3 {color: blue}</style>
 
 
