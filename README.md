@@ -24,4 +24,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kurayami7&" alt="kurayami7" /></p>
 
-<style>h3 {color: red}</style>
+<style>h3 {color: blue}</style>
+
+
