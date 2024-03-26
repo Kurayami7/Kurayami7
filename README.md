@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kurayami7&show_icons=true&locale=en" alt="kurayami7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kurayami7&" alt="kurayami7" /></p>
+
+<style>h3 {color: red}</style>
