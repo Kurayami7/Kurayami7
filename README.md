@@ -5,7 +5,7 @@
 <h3 align="left">Connect with me 🤝:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/areaf/">
-  <img alt="Areaf's LinkedIn" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+  <img alt="Areaf's LinkedIn" height="30px" width="40px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
 </a>
 <a href="mailto:a.legend7@outlook.com" target="blank"><img align="center" src="mail.gif" height="30" width="40" /></a>
 </p>
