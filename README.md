@@ -45,11 +45,14 @@
 <br>
 <br>
 
-<summary><b> :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</b>b></summary>
+<details>
+<summary><b>:book: &nbsp;𝙰𝚋𝚘𝚞𝚝 𝙼𝚎</b></summary>
+<br/>
 <div align="center">
   <p align="center">"I'm a Software Developer - Integrations @ILAC and find fulfilment in developing complex software, integrations, automating workflows, and occasionally attending meetups in Toronto (usually related to Microsoft Technology). I focus on maintainability, performance, and readability with all of my projects and strive to follow the best practices."</p>
 </div>
 <br>
+</details>
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics - Click to Expand</b></summary>
