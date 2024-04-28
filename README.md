@@ -42,13 +42,6 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kurayami7&show_icons=true&locale=en&layout=compact" alt="kurayami7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kurayami7&show_icons=true&locale=en" alt="kurayami7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kurayami7&" alt="kurayami7" /></p>
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Statistics</b></summary>
