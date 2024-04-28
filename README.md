@@ -46,7 +46,7 @@
 <br>
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png" width="50%" alt="I'm a Software Developer - Integrations @ILAC and find fulfilment in developing complex software, integrations, automating workflows, self-hosting all my services on personal servers (mostly on custom build Raspberry Pi clusters with ICE Tower Cooler🥶), occasionally attending meetups in Toronto, usually related to Microsoft Technology. I focus on maintainability, performance, and readability with all of my projects and strive to follow the best practices.">
+  <img src="[https://user-images.githubusercontent.com/38964964/167205200-026483f2-8b0f-4101-b76f-96347a246889.png](https://github.com/Kurayami7/Kurayami7/blob/main/ascii-art.png)" width="50%" alt="I'm a Software Developer - Integrations @ILAC and find fulfilment in developing complex software, integrations, automating workflows, self-hosting all my services on personal servers (mostly on custom build Raspberry Pi clusters with ICE Tower Cooler🥶), occasionally attending meetups in Toronto, usually related to Microsoft Technology. I focus on maintainability, performance, and readability with all of my projects and strive to follow the best practices.">
 </div>
 <br>
 
