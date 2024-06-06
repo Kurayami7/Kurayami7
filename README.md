@@ -52,6 +52,10 @@
   <p align="center">"I'm a Software Developer - Integrations @ILAC and find fulfilment in developing complex software, integrations, automating workflows, and occasionally attending meetups in Toronto (usually related to Microsoft Technology). I focus on maintainability, performance, and readability with all of my projects and strive to follow the best practices."</p>
 </div>
 <br>
+
+<div align="center">
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In Solutude Lies the Ability to Shape Destiny)]
+</div>
 </details>
 
 <details>
