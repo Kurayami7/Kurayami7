@@ -54,7 +54,7 @@
 <br>
 
 <div align="center">
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote="In Solutude Lies the Ability to Shape Destiny")
+  ![In Solutude Lies the Ability to Shape Destiny](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20Solutude%20Lies%20the%20Ability%20to%20Shape%20Destiny)
 </div>
 </details>
 
