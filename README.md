@@ -54,6 +54,7 @@
 <br>
 
 <div>
+  ### A quote I live by:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20Solutude%20Lies%20the%20Ability%20to%20Shape%20Destiny&author=Areaf" alt="In Solitude Lies the Ability to Shape Destiny">
 </div>
 </details>
